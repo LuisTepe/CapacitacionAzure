@@ -1,28 +1,14 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Pagina de inicio](README.md)
 
-## Overview
+## Sprint 1
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Requerimientos funcionales](sprint-1/requerimientos-funcionales.md)
+* [Requerimientos no funcionales](sprint-1/requerimientos-no-funcionales.md)
+* [Planeacion de arquitectura](sprint-1/planeacion-de-arquitectura.md)
+* [Reunion con el cliente](sprint-1/reunion-con-el-cliente.md)
 
-## Product Guides
+## Documentacion de APIs
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
-
-***
-
-* [Ejemplo de uso de APIs](ejemplo-de-uso-de-apis.md)
+* [Documentacion de apis ejemplo](documentacion-de-apis/documentacion-de-apis-ejemplo.md)

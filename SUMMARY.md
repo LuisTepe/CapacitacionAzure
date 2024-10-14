@@ -22,3 +22,7 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥️ For Developers](use-cases/for-developers.md)
+
+***
+
+* [Ejemplo de uso de APIs](ejemplo-de-uso-de-apis.md)
